@@ -1,0 +1,8 @@
+python-dotenv
+openai
+pandas
+instructor
+outlines
+transformers
+sentencepiece
+datasets
